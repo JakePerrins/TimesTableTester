@@ -11,6 +11,7 @@ namespace TimesTableTester
     {
         static void Main(string[] args)
         {
+
             Console.Write("Welcome, what is your name? ");
             string name = Console.ReadLine();
 
